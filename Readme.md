@@ -1,5 +1,5 @@
-<img src="https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/Astra_DB_logo.png" align="right" height="300"/>
-# Social Media Performance Analysis Module
+<img src="https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/Astra_DB_logo.png" align="center" height="300"/>
+### Social Media Performance Analysis Module ###
 
 *Overview*
 This project is part of the Level Supermind Hackathon and focuses on analyzing social media performance metrics using Langflow and DataStax Astra DB. The project provides actionable insights into engagement data, helping optimize social media strategies.
