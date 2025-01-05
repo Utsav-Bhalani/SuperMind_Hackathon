@@ -89,3 +89,4 @@ The GPT integration provides insights to guide social media strategies, such as 
 
 Feel free to contact us!!
 
+![team Logo](https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/teamlogo.jpg)
