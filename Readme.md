@@ -1,5 +1,8 @@
-<img src="https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/Astra_DB_logo.png" align="center" height="300"/>
-### Social Media Performance Analysis Module ###
+<img src="https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/Astra_DB_logo.png" align="left" height="300"/>
+<img src="https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/Langflow_logo.png" align="right" height="300"/>
+<img src="https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/teamlogo.jpeg" align="center" height="300"/>
+
+### Social Media Performance Analysis Module
 
 *Overview*
 This project is part of the Level Supermind Hackathon and focuses on analyzing social media performance metrics using Langflow and DataStax Astra DB. The project provides actionable insights into engagement data, helping optimize social media strategies.
@@ -60,8 +63,12 @@ Uses GPT for generating actionable insights.
 Insights Generation:
 The GPT integration provides insights to guide social media strategies, such as which post types perform best on specific platforms.
 
+<img src="https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/LangFLow.jpeg" align="center" height="300"/>
+
+<img src="https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/Output.png" align="center" height="300"/>
+
 ### Authors
-Team Name: Team Yeti
+Team Name: Team YETI
 Member 1: Raj Desai
 Member 2: Om Modi
 Member 3: Utsav Bhalani
