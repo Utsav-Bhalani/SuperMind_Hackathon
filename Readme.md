@@ -4,6 +4,8 @@
 ![Langflow Logo](https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/Langflow_logo.png)
 
 ### Project link : https://chatbot-tau-peach.vercel.app/
+### Youtube Video : https://youtu.be/dcZc6eWiRHg
+### Github for Web : https://github.com/Utsav-Bhalani/chatbot.git
 
 ## Overview
 
