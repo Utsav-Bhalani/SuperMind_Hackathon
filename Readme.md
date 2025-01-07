@@ -3,6 +3,8 @@
 ![Astra DB Logo](https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/Astra_DB_logo.png)
 ![Langflow Logo](https://github.com/Utsav-Bhalani/SuperMind_Hackathon/blob/master/Images/Langflow_logo.png)
 
+### Project link : https://chatbot-tau-peach.vercel.app/
+
 ## Overview
 
 This project is part of the Level Supermind Hackathon and focuses on analyzing social media performance metrics using Langflow and DataStax Astra DB. The project provides actionable insights into engagement data, helping optimize social media strategies.
